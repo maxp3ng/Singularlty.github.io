@@ -1,6 +1,6 @@
-## singularity
+# singularity
 
-# work in progress
+## work in progress
 
 ```markdown
 Syntax highlighted code block
