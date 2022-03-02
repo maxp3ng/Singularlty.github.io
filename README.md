@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Singularity
 
 You can use the [editor on GitHub](https://github.com/Singularlty/Singularlty.waut.dev/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
