@@ -1,23 +1,48 @@
-html,
-
 body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
   font-size: 16px;
   font-family: Helvetica, sans-serif;
-  background-color: #3c3c3c;
+  background-color: #1a1a1a;
 }
 
-h1 {
+singularity {
   font-family: Helvetica, sans-serif;
-  font-style: italic;
-  font-size: 40px;
+  font-style: normal;
+  font-size: 39px;
   color: rgb(255, 255, 255);
+  text-shadow: #999999 5px;
+}
+
+a:link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(157, 157, 157);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: solid underline rgb(255, 255, 255) 4px;
+}
+
+a:active {
+  color: rgb(157, 157, 157);
+  text-decoration: solid underline rgb(157, 157, 157) 4px;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 16px;
+  color: rgb(221, 221, 221);
   text-shadow: #999999 2px;
 }
 
-
+/*
 socials {
   width: 10px;
   height: 30px;
@@ -25,4 +50,12 @@ socials {
   border-width: 2px;
   border-color: white;
   border-style: solid;
+}  */
+
+footer {
+  background: rgb(41, 41, 41);
+  color: rgb(143, 96, 96);
+  padding: 5px;
+  text-align: right;
+  font-style: italic;
 }
