@@ -12,6 +12,7 @@ h1 {
   font-family: Verdana;
   font-size: 40px;
   color: rgb(255, 255, 255);
+  text-shadow: #999999 2px;
 }
 
 h2 {
@@ -32,4 +33,13 @@ h4 {
   font-family: Verdana;
   font-size: 16px;
   color: rgb(255, 255, 255);
+}
+
+socials {
+  width: 10px;
+  height: 30px;
+  visibility: visible;
+  border-width: 2px;
+  border-color: white;
+  border-style: solid;
 }
