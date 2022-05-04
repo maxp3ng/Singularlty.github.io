@@ -15,8 +15,6 @@ const phrases = [
   'all rights reserved',
   'total misplay',
   'i predict that the color now is neon orange',
-  'This web is as strong as that big sea monkey',
-  '.',
   '',
 ];
 const colors = [
@@ -30,7 +28,6 @@ const colors = [
   'rgb(20, 220, 255)',
   'rgb(59, 62, 255)',
   'rgb(160, 19, 255)',
-  'rgb(255, 16, 240)',
 ];
 
 //mobile check (please contact me if you know a better way to do this)
