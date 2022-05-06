@@ -1,18 +1,5 @@
 const phrases = [
-  'rng!',
-  'Sword_Knives was here',
-  'any computer is a laptop if you\'re brave enough',
-  'You\'ve met with a terrible fate, haven\'t you?',
-  'Waiting for something to happen?',
-  'suspicious',
-  'never gonna give you up never gonna let you down never gonna run around and desert you never gonna make you cry never gonna say goodbye never gonna tell a lie and hurt you',
-  'getoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyhead',
-  "Think you've seen the last of me?",
-  'like and subscribe',
-  'bar abuse!',
-  'minimalism',
-  'all rights reserved',
-  'total misplay',
+  'help servers are expensive',
 ];
 const colors = [
   'rgb(255, 44, 44)',
