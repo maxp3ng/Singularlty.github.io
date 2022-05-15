@@ -1,4 +1,15 @@
-const phrases = [
+const phrases = [ //keeping this for now :skull:
+  'rng!',
+  'Sword_Knives was here',
+  'any computer is a laptop if you\'re brave enough',
+  'You\'ve met with a terrible fate, haven\'t you?',
+  'Waiting for something to happen?',
+  'never gonna give you up never gonna let you down never gonna run around and desert you never gonna make you cry never gonna say goodbye never gonna tell a lie and hurt you',
+  'getoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyheadgetoutofmyhead',
+  'like and subscribe',
+  'minimalism',
+  'all rights reserved',
+  'total misplay',
   'help servers are expensive',
 ];
 const colors = [
