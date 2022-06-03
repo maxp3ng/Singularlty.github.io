@@ -11,6 +11,8 @@ const phrases = [ //keeping this for now :skull:
   'all rights reserved',
   'total misplay',
   'help servers are expensive',
+  'apathy\'s a tragedy and boredom is a crime',
+  'fun fact: oxymoron'
 ];
 const colors = [
   'rgb(255, 44, 44)',
