@@ -3,17 +3,20 @@
 ## work in progress
 
 ### todo:
+webapp
 
-### mobile
+nft stealing simulator
 
-### arg
+mobile
 
-### images update
+arg
 
-### end
+images update
 
-### phrases + colors
+end
 
-### list revamp
+phrases + colors
 
-### fonts
+list revamp
+
+fonts

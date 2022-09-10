@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head lang="en">
+    <meta http-equiv="content-language" content="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="website, blog, foo, bar">
+    <meta name="author" content="John Doe">
+    <meta name="publisher" content="John Doe">
+    <meta name="copyright" content="John Doe">
+    <meta name="description" content="This short description describes my website.">
+    <meta name="page-topic" content="Media">
+    <meta name="page-type" content="Blogging">
+    <meta name="audience" content="Everyone">
+    <meta name="robots" content="index, follow">
+
+    <title>My website title</title>
+</head>
+
+<body>
+    <span class="text"> no api found </span>
+
+
+    <script>
+        console.log("SCRIPT START");
+        const text = document.querySelector('.text');
+
+        fetch('https://testnets-api.opensea.io/api/v1/assets?order_direction=desc&offset=5024&limit=1&include_orders=false').then(function (response) {
+            return response.json();
+        })
+        .then(data => NFTData = data)
+        .then(function (data) {
+            console.log(data);
+            console.log(JSON.stringify(data))
+            text.innerHTML = JSON.stringify(data.assets[0].id);
+        })
+        .catch(function (err) {
+            console.warn('Something went wrong.', err);
+        });
+
+        console.log("stuff");
+    </script>
+</body>
+</html>
