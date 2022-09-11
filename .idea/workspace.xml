@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f105789-3ff3-4c20-a3af-e76bc4fec7ab" name="Changes" comment="" />
+    <list default="true" id="4f105789-3ff3-4c20-a3af-e76bc4fec7ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Singularlty.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/white-circles.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/white-circles.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/white-discord-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/white-discord-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/white-gmail.icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/white-gmail.icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disclaimer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/troll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +26,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -50,6 +63,7 @@
       <recent name="C:\Users\cyani\Downloads\waut-dev\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cyani\OneDrive\Documents\GitHub\Singularlty.github.io\img" />
       <recent name="C:\Users\cyani\Downloads\waut-dev" />
     </key>
   </component>
@@ -79,6 +93,9 @@
       <workItem from="1662243964458" duration="1000" />
       <workItem from="1662586211389" duration="3510000" />
       <workItem from="1662829418989" duration="521000" />
+      <workItem from="1662829978938" duration="1060000" />
+      <workItem from="1662933308753" duration="763000" />
+      <workItem from="1662934382385" duration="664000" />
     </task>
     <servers />
   </component>
