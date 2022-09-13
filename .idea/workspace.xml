@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f105789-3ff3-4c20-a3af-e76bc4fec7ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Singularlty.github.io.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/crime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/crimejs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/white-circles.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/white-circles.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/white-discord-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/white-discord-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/white-gmail.icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/white-gmail.icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/disclaimer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/troll.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -95,7 +91,10 @@
       <workItem from="1662829418989" duration="521000" />
       <workItem from="1662829978938" duration="1060000" />
       <workItem from="1662933308753" duration="763000" />
-      <workItem from="1662934382385" duration="664000" />
+      <workItem from="1662934382385" duration="2433000" />
+      <workItem from="1662945325837" duration="13000" />
+      <workItem from="1663022700932" duration="1663000" />
+      <workItem from="1663027965926" duration="10145000" />
     </task>
     <servers />
   </component>
