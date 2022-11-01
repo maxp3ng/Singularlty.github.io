@@ -25,6 +25,7 @@ const phrases = [ //keeping this for now :skull:
   'frontend devs trying to center a div:',
   'backend devs when the end user inputs null:',
   '[citation needed]',
+  'god\'s in his heaven. all\'s right in the world.',
   'ayo' //19
 ];
 const colors = [

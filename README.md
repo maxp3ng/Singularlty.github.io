@@ -3,9 +3,8 @@
 ## work in progress
 
 ### todo:
-webapp
 
-nft stealing simulator
+webapp
 
 mobile
 
@@ -20,3 +19,6 @@ phrases + colors
 list revamp
 
 fonts
+
+nft stealing simulator - hiatus
+

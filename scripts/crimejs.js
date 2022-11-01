@@ -1,6 +1,6 @@
 
 
-const crimes = [ //this is like only 2% of all of them - there's a lot of crimes out there
+const crimes = [ //this is like only 2% of all of them - there's more federal crimes than you'd think
     'Advocating Overthrow of Government',
     'Aggravated Assault/Battery',
     'Aggravated Identity Theft',
@@ -250,16 +250,16 @@ function generate() {
     if (count == 1) {
         crimeIndex = parseInt(Math.random() * crimes.length);
         theCrime = crimes[crimeIndex];
-        text += " 1 count of " + theCrime;
-        funny.innerHTML = text + suffix;
-    } else if(count < 1){
-        funny.innerHTML = "you're not doing enough crime. what are you doing here?";
-    } else if(count > 10000000000){
-        funny.innerHTML = "woahhhhhhh. that's a little too much crime. i don't think your browser can handle your sheer crime.";
+        text += " " + theCrime;
+    } else if (count < 1) {
+        funny.innerHTML = "crime underflow";
+    } else if (count > 10000000000) {
+        funny.innerHTML = "crime overflow";
     } else {
+        //gen
         let i;
         for (i = 2; i < parseInt(count) + 2; i++) {
-            if (i == parseInt(count) + 1) {
+            if (i === parseInt(count) + 1) {
                 crimeIndex = parseInt(Math.random() * crimes.length);
                 theCrime = crimes[crimeIndex];
                 text += " and 1 count of " + theCrime;
@@ -267,12 +267,13 @@ function generate() {
                 numOfCrimes = parseInt(Math.random() * (parseInt(count) + 1 - i)) + 1;
                 crimeIndex = parseInt(Math.random() * crimes.length);
                 theCrime = crimes[crimeIndex];
-                if (numOfCrimes == 1) {text += " " + numOfCrimes +" count of " + theCrime + ",";}
+                if (numOfCrimes === 1) {text += " " + numOfCrimes +" count of " + theCrime + ",";}
                 else {text += " " + numOfCrimes +" counts of " + theCrime + ",";}
 
                 i += numOfCrimes-1;
             }
         }
-        funny.innerHTML = text + suffix;
     }
+
+    funny.innerHTML = text + " " + suffix;
 }

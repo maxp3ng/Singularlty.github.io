@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f105789-3ff3-4c20-a3af-e76bc4fec7ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/crime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/crimejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nft.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crime.html" beforeDir="false" afterPath="$PROJECT_DIR$/crime.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/crimejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/crimejs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/konvaTest.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +40,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/webapp.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/nft.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2AwP8qocrPQ7V7HrPMuyMirdI28" />
   <component name="ProjectViewState">
@@ -47,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -56,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cyani\OneDrive\Documents\GitHub\Singularlty.github.io" />
       <recent name="C:\Users\cyani\Downloads\waut-dev\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -94,7 +100,21 @@
       <workItem from="1662934382385" duration="2433000" />
       <workItem from="1662945325837" duration="13000" />
       <workItem from="1663022700932" duration="1663000" />
-      <workItem from="1663027965926" duration="10145000" />
+      <workItem from="1663027965926" duration="10262000" />
+      <workItem from="1663065628476" duration="1687000" />
+      <workItem from="1663197981114" duration="1852000" />
+      <workItem from="1663444486796" duration="796000" />
+      <workItem from="1663718690320" duration="626000" />
+      <workItem from="1663815373081" duration="10000" />
+      <workItem from="1664900875702" duration="2634000" />
+      <workItem from="1664934539035" duration="3018000" />
+      <workItem from="1665064334520" duration="3524000" />
+      <workItem from="1665267976949" duration="113000" />
+      <workItem from="1665427895979" duration="4040000" />
+      <workItem from="1665493202199" duration="4741000" />
+      <workItem from="1665618983744" duration="2078000" />
+      <workItem from="1665746016344" duration="17000" />
+      <workItem from="1667273402587" duration="1860000" />
     </task>
     <servers />
   </component>
