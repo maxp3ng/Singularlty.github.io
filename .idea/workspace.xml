@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f105789-3ff3-4c20-a3af-e76bc4fec7ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nft.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anime.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heartbeat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heartbeat2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heartbeatfin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/patient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styleexp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/waut-dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/waut-dev.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crime.html" beforeDir="false" afterPath="$PROJECT_DIR$/crime.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/crimejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/crimejs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/konvaTest.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,21 +50,28 @@
     <setting file="file://$PROJECT_DIR$/nft.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2AwP8qocrPQ7V7HrPMuyMirdI28" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/404.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/404.html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -114,11 +128,29 @@
       <workItem from="1665493202199" duration="4741000" />
       <workItem from="1665618983744" duration="2078000" />
       <workItem from="1665746016344" duration="17000" />
-      <workItem from="1667273402587" duration="1860000" />
+      <workItem from="1667273402587" duration="2039000" />
+      <workItem from="1667275731231" duration="24000" />
+      <workItem from="1667308245293" duration="15000" />
+      <workItem from="1667439374077" duration="382000" />
+      <workItem from="1667649633530" duration="1500000" />
+      <workItem from="1667699239432" duration="1214000" />
+      <workItem from="1667745602121" duration="169000" />
+      <workItem from="1668735349577" duration="30000" />
+      <workItem from="1668735431532" duration="10453000" />
+      <workItem from="1668830538391" duration="398000" />
+      <workItem from="1668956548042" duration="31000" />
+      <workItem from="1668963235810" duration="595000" />
+      <workItem from="1669082857368" duration="88000" />
+      <workItem from="1669311258215" duration="661000" />
+      <workItem from="1669435178854" duration="728000" />
+      <workItem from="1669522876761" duration="3041000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

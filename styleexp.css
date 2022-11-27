@@ -1,0 +1,103 @@
+:root {
+    --secondary-color: rgb(20, 220, 255);
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: #1a1a1a;
+}
+
+
+.wautdev {
+    font-size: 4vh;
+    color: rgb(255, 255, 255);
+}
+
+
+.loading {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: fixed;
+    height: 100vh;
+    width:100vw;
+    z-index: 4800;
+    background-color: #1a1a1a;
+    visibility: visible;
+}
+
+::-moz-selection {
+    color: rgb(0, 0, 0);
+    background: var(--secondary-color);
+}
+
+::selection {
+    color: rgb(0, 0, 0);
+    background: var(--secondary-color);
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: solid underline var(--secondary-color) 4px;
+}
+
+a:active {
+    color: rgb(157, 157, 157);
+    text-decoration: solid underline var(--secondary-color) 4px;
+}
+
+
+img {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+p {
+    font-size: 16px;
+    color: rgb(221, 221, 221);
+    line-height: 0.7;
+}
+
+
+h1 {
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: solid underline var(--secondary-color) 4px;
+}
+
+h5 {
+    font-size: 20px;
+    color: rgb(221, 221, 221);
+    line-height: 0.5;
+}
