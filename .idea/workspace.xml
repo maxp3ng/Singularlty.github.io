@@ -5,21 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f105789-3ff3-4c20-a3af-e76bc4fec7ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anime.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heartbeat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heartbeat2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heartbeatfin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patient.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/patient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styleexp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/waut-dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/waut-dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/heartbeat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/heartbeat.svg.2022_12_04_22_08_46.0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/heartbeat2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disclaimer.html" beforeDir="false" afterPath="$PROJECT_DIR$/disclaimer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heartbeat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heartbeat2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heartbeatfin.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/konvaTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/patient.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/patient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/2020script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.html" beforeDir="false" afterPath="$PROJECT_DIR$/sites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/2020style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleexp.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleSites.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -64,13 +71,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/404.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/404.html" />
   </component>
   <component name="RecentsManager">
@@ -143,7 +153,18 @@
       <workItem from="1669082857368" duration="88000" />
       <workItem from="1669311258215" duration="661000" />
       <workItem from="1669435178854" duration="728000" />
-      <workItem from="1669522876761" duration="3041000" />
+      <workItem from="1669522876761" duration="3271000" />
+      <workItem from="1669526745979" duration="196000" />
+      <workItem from="1669527428499" duration="1640000" />
+      <workItem from="1669592328837" duration="2328000" />
+      <workItem from="1669684367676" duration="11000" />
+      <workItem from="1670204775333" duration="4887000" />
+      <workItem from="1671151209425" duration="695000" />
+      <workItem from="1671910492754" duration="1000000" />
+      <workItem from="1672614512114" duration="75000" />
+      <workItem from="1672614597881" duration="82000" />
+      <workItem from="1672717425389" duration="13000" />
+      <workItem from="1672717442565" duration="609000" />
     </task>
     <servers />
   </component>

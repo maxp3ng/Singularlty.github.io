@@ -24,9 +24,13 @@ const phrases = [ //keeping this for now :skull:
   'rgb gamers',
   'frontend devs trying to center a div:',
   'backend devs when the end user inputs null:',
-  '[citation needed]',
+  '[citation needed]', //19
   'god\'s in his heaven. all\'s right in the world.',
-  'ayo' //19
+  'ayo',
+  'C:/Users/singularity/waut.dev/splashtext.txt',
+  'i omor',
+  'singularity doing the try to make a visually appealing portfolio challenge (impossible)',
+  'i am in your walls mpfh i love eating insulation skrmpf it is like cotton candy but free i will eat your entire house like a little termite infestation s'//23
 ];
 const colors = [
   'rgb(255, 44, 44)',

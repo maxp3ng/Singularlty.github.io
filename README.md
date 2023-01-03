@@ -1,24 +1,5 @@
-# singularity
-
-## work in progress
+# wautdotdev - singularity
 
 ### todo:
 
-webapp
-
-mobile
-
-arg
-
-images update
-
-end
-
-phrases + colors
-
-list revamp
-
-fonts
-
-nft stealing simulator - hiatus
-
+revamp coming soon
